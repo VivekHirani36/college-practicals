@@ -1,0 +1,6 @@
+
+# .NET / Visual Studio generated files
+**/bin/
+**/obj/
+**/packages/
+.vs/
